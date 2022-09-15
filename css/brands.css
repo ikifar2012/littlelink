@@ -187,6 +187,14 @@ button:hover,
 .button.button-kit:focus {
   filter: brightness(90%) }
 
+/* Ko-fi */
+.button.button-kofi {
+  color: #FFFFFF;
+  background-color: #29abe0 }
+.button.button-kofi:hover,
+.button.button-kofi:focus {
+  filter: brightness(90%) }
+
 /* LinkedIn */
 .button.button-linked {
   color: #FFFFFF;
