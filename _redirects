@@ -1,4 +1,5 @@
 /DoT https://mathesonsteplock.ca/how-to-enable-dns-over-tls-on-pfsense 301
 /dot https://mathesonsteplock.ca/how-to-enable-dns-over-tls-on-pfsense 301
 /win https://rapid-forsythia-3d1.notion.site/Windows-Cheat-Sheet-941e3cea63e94c099830a9e2d194932c 301
-/import-key https://gist.githubusercontent.com/ikifar2012/b16c9ef3e709920a50d17c0b4923c0e9/raw/b608a645aefa0f0fabf2ffa038e1fdbb67f4f664/import-ssh-key 301
+/import-key https://raw.githubusercontent.com/ikifar2012/scripts/refs/heads/main/bash/import-key.sh 301
+/ssh https://raw.githubusercontent.com/ikifar2012/scripts/refs/heads/main/bash/import-key.sh 301
